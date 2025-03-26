@@ -1,5 +1,7 @@
 # AIO Script Updater Made in Go
 
+## NOTE: THIS SCRIPT IS ONE I WROTE TWO YEARS AGO (2023), IT HAS ONLY RECENTLY BEEN MADE PUBLIC. I DID NOT MAKE THIS RECENTLY.
+
 ## This script basically establishes an SSH connection with the provided details and either uploads a file and replaces it remotely or downloads one and replaces it locally.
 
 <br>   
